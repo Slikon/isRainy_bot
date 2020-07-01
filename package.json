@@ -5,8 +5,7 @@
   "main": "dist/app.js",
   "repository": "https://github.com/Slikon/isRainy_bot",
   "author": "Viacheslav Kulyk",
-  "license": "MIT",
-  "private": false,
+  "license": "ISC",
   "scripts": {
     "distribute": "yarn build-ts && node dist/app.js",
     "develop": "concurrently -k -i -p \"[{name}]\" -n \"Node,TypeScript\" -c \"yellow.bold,cyan.bold\" \"yarn watch-js\" \"yarn watch-ts\"",
