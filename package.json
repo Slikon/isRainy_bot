@@ -23,7 +23,8 @@
     "@types/mongoose": "^5.5.32",
     "@types/node": "^14.0.13",
     "dotenv": "^8.2.0",
-    "mongoose": "^5.7.12",
+    "mongodb": "^3.5.9",
+    "mongoose": "^5.9.21",
     "telegraf": "^3.33.3",
     "telegraf-i18n": "^6.6.0",
     "typescript": "^3.7.2"
