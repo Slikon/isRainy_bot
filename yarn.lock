@@ -19,7 +19,7 @@
   resolved "https://registry.yarnpkg.com/@typegoose/typegoose/-/typegoose-7.2.0.tgz#b15bc52f943e3db42515516242be481d6d23dd43"
   integrity sha512-oNAGPlABIKOeWvrZoXTq+I1PPFn6Iu1d0jOQ5kmlDK5H46QteqRTbUOpBJKb9KuKW576gYMsnW0T/VU2S8ErdQ==
   dependencies:
-    lodash "^4.17.15"
+    lodash "^4.17.19"
     loglevel "^1.6.8"
     reflect-metadata "^0.1.13"
     semver "^7.3.2"
@@ -291,7 +291,7 @@ concurrently@^5.0.0:
   dependencies:
     chalk "^2.4.2"
     date-fns "^2.0.1"
-    lodash "^4.17.15"
+    lodash "^4.17.19"
     read-pkg "^4.0.1"
     rxjs "^6.5.2"
     spawn-command "^0.0.2-1"
@@ -690,8 +690,8 @@ locate-path@^3.0.0:
     p-locate "^3.0.0"
     path-exists "^3.0.0"
 
-lodash@^4.17.15:
-  version "4.17.15"
+lodash@^4.17.19:
+  version "4.17.19"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
   integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
 
